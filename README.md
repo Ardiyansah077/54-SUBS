@@ -1,4 +1,4 @@
-##HELLO GESS
+
 
 
 
@@ -41,9 +41,9 @@ $ pkg install ffmpeg
 
 $ pkg install npm 
 
-$ git clone https://github.com/githublu/namalu
+$ git clone https://github.com/Ardiyansah077/54-SUBS
 
-$ cd kdkdk
+$ cd 54-SUBS
 
 $ bash install.sh
 
